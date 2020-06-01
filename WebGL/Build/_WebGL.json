@@ -3,6 +3,7 @@
 "productName": "Spookyhouse",
 "productVersion": "0.1",
 "dataUrl": "_WebGL.data.unityweb",
+"content_security_policy": "script-src 'unsafe-inline'",
 "wasmCodeUrl": "_WebGL.wasm.code.unityweb",
 "wasmFrameworkUrl": "_WebGL.wasm.framework.unityweb",
 "graphicsAPI": ["WebGL 2.0","WebGL 1.0"],
